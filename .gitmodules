@@ -1,0 +1,3 @@
+[submodule "carcrm-react"]
+	path = carcrm-react
+	url = https://github.com/gustavoalvesdev/carcrm-react
